@@ -1,0 +1,5 @@
+<map id="pops::SwitchDispersalKernel&lt; IntegerRaster &gt;" name="pops::SwitchDispersalKernel&lt; IntegerRaster &gt;">
+<area shape="rect" id="node1" title="Dispersal kernel providing all the radial kernels." alt="" coords="127,124,334,165"/>
+<area shape="rect" id="node2" href="$classpops_1_1UniformDispersalKernel.html" title="Dispersal kernel for random uniform dispersal over the whole landscape." alt="" coords="5,13,221,39"/>
+<area shape="rect" id="node3" href="$classpops_1_1DeterministicNeighborDispersalKernel.html" title="Dispersal kernel for deterministic spread to a next cell." alt="" coords="245,5,453,47"/>
+</map>

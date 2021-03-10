@@ -1,0 +1,4 @@
+<map id="pops::model_type_from_string" name="pops::model_type_from_string">
+<area shape="rect" id="node1" title="Get a corresponding enum value for a string which is a model type name." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node2" href="$namespacepops.html#af5d4a3742525eaac74b66a6c4f0a03d7" title="Overload which allows to pass C&#45;style string which is nullptr (NULL)" alt="" coords="5,5,181,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="pops::schedule_from_string" name="pops::schedule_from_string">
+<area shape="rect" id="node1" title="Get output (export) schedule based on frequency string (&quot;year&quot;, &quot;month&quot;, &quot;week&quot;, &quot;day&quot;,..." alt="" coords="5,169,163,211"/>
+<area shape="rect" id="node2" href="$classpops_1_1Scheduler.html#acc285b485ab873afe2d5a95072f507f7" title="Get number of simulation steps." alt="" coords="231,5,386,47"/>
+<area shape="rect" id="node3" href="$classpops_1_1Scheduler.html#a8a75f6939333f1e263b0acb4ed86bbb1" title="Get length of simulation step as number of units and unit type." alt="" coords="231,71,386,112"/>
+<area shape="rect" id="node4" href="$classpops_1_1Scheduler.html#a18fb8416ec2c86b9ee2acea9af9d844e" title="Schedule an action at the end of simulation." alt="" coords="211,136,407,177"/>
+<area shape="rect" id="node5" href="$classpops_1_1Scheduler.html#a0b37b1fe2fc06541c6593ff496d6ee0e" title="Schedule an action at the end of each year, e.g." alt="" coords="213,201,404,243"/>
+<area shape="rect" id="node6" href="$classpops_1_1Scheduler.html#aa2558fee6d323c52523a466b882afa97" title="Schedule action at the end of each month." alt="" coords="213,267,404,308"/>
+<area shape="rect" id="node10" href="$classpops_1_1Scheduler.html#a92688e2c0aa69958f903bdcd5cfc1aed" title="Schedule action every N simulation steps,." alt="" coords="213,332,404,373"/>
+<area shape="rect" id="node7" href="$classpops_1_1Date.html#a892e403c431192e6ee2f8967ebf25e83" title=" " alt="" coords="455,237,597,279"/>
+<area shape="rect" id="node9" href="$classpops_1_1Date.html#a857da99fc34d76a9c58af2578495c305" title=" " alt="" coords="455,303,597,330"/>
+<area shape="rect" id="node8" href="$classpops_1_1Date.html#ae6025790ad4ed955201ea83af5dc521c" title=" " alt="" coords="645,245,828,271"/>
+</map>

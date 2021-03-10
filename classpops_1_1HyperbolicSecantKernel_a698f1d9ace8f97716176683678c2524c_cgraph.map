@@ -1,0 +1,4 @@
+<map id="pops::HyperbolicSecantKernel::random" name="pops::HyperbolicSecantKernel::random">
+<area shape="rect" id="node1" title="Returns random value from hyperbolic secant distribution Used by RadialKernel to determine location o..." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1HyperbolicSecantKernel.html#a12416f27d8fb209fafa8b2fbb9fe0287" title="Hyperbolic secant inverse cumulative distribution (quantile) function Used by DeterministicKernel to ..." alt="" coords="269,5,485,47"/>
+</map>

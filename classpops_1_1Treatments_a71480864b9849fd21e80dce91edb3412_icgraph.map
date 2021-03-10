@@ -1,0 +1,4 @@
+<map id="pops::Treatments::manage_mortality" name="pops::Treatments::manage_mortality">
+<area shape="rect" id="node1" title="Separately manage mortality infected cohorts." alt="" coords="219,5,413,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Model.html#a4cff9a7f6e323775db0d7a84f4ccf170" title="Run one step of the simulation." alt="" coords="5,13,171,39"/>
+</map>

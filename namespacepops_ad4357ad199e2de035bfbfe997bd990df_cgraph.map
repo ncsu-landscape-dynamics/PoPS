@@ -1,0 +1,5 @@
+<map id="pops::write_quarantine_escape" name="pops::write_quarantine_escape">
+<area shape="rect" id="node1" title="Writes quarantine escape summary for all steps into a string." alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$namespacepops.html#a367a890c5c59f0f6b568aed9e1ec1039" title="Reports minimum distances to quarantine boundary (bbox) and associated distances for each run for cer..." alt="" coords="226,5,406,47"/>
+<area shape="rect" id="node3" href="$namespacepops.html#a3b724c5225aa0fc3957318164fd45410" title="Reports probability of escaping quarantine based on multiple runs for certain step." alt="" coords="224,71,408,112"/>
+</map>

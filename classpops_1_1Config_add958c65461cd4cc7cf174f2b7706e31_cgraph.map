@@ -1,0 +1,17 @@
+<map id="pops::Config::create_schedules" name="pops::Config::create_schedules">
+<area shape="rect" id="node1" title=" " alt="" coords="5,158,156,199"/>
+<area shape="rect" id="node2" href="$classpops_1_1Scheduler.html#a0b37b1fe2fc06541c6593ff496d6ee0e" title="Schedule an action at the end of each year, e.g." alt="" coords="445,57,636,98"/>
+<area shape="rect" id="node3" href="$classpops_1_1Scheduler.html#a139bfd15771d55ff1cf153db6e3fd1d4" title="Schedule an action at certain date each year, e.g." alt="" coords="204,17,395,58"/>
+<area shape="rect" id="node5" href="$namespacepops.html#aca8fc9deff1ba7745eae6222c6067f1d" title="Get output (export) schedule based on frequency string (&quot;year&quot;, &quot;month&quot;, &quot;week&quot;, &quot;day&quot;,..." alt="" coords="221,187,378,229"/>
+<area shape="rect" id="node14" href="$classpops_1_1Scheduler.html#ade7f18769ed42a020f1f83b13c174f22" title="Schedule spread." alt="" coords="204,350,395,391"/>
+<area shape="rect" id="node4" href="$classpops_1_1Date.html#ad707213639ea54af2336bb80adf06259" title=" " alt="" coords="476,5,605,32"/>
+<area shape="rect" id="node6" href="$classpops_1_1Scheduler.html#acc285b485ab873afe2d5a95072f507f7" title="Get number of simulation steps." alt="" coords="463,318,618,359"/>
+<area shape="rect" id="node7" href="$classpops_1_1Scheduler.html#a8a75f6939333f1e263b0acb4ed86bbb1" title="Get length of simulation step as number of units and unit type." alt="" coords="463,383,618,425"/>
+<area shape="rect" id="node8" href="$classpops_1_1Scheduler.html#a18fb8416ec2c86b9ee2acea9af9d844e" title="Schedule an action at the end of simulation." alt="" coords="443,122,639,163"/>
+<area shape="rect" id="node9" href="$classpops_1_1Scheduler.html#aa2558fee6d323c52523a466b882afa97" title="Schedule action at the end of each month." alt="" coords="445,187,636,229"/>
+<area shape="rect" id="node13" href="$classpops_1_1Scheduler.html#a92688e2c0aa69958f903bdcd5cfc1aed" title="Schedule action every N simulation steps,." alt="" coords="445,253,636,294"/>
+<area shape="rect" id="node10" href="$classpops_1_1Date.html#a892e403c431192e6ee2f8967ebf25e83" title=" " alt="" coords="687,158,829,199"/>
+<area shape="rect" id="node12" href="$classpops_1_1Date.html#a857da99fc34d76a9c58af2578495c305" title=" " alt="" coords="687,224,829,251"/>
+<area shape="rect" id="node11" href="$classpops_1_1Date.html#ae6025790ad4ed955201ea83af5dc521c" title=" " alt="" coords="877,165,1060,192"/>
+<area shape="rect" id="node15" href="$classpops_1_1Season.html#af6a953ffc3fe46b148884642912df2be" title="Decides if a month is in season or not." alt="" coords="461,449,620,490"/>
+</map>

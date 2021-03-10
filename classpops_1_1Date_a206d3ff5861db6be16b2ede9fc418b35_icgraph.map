@@ -1,0 +1,5 @@
+<map id="pops::Date::subtract_day" name="pops::Date::subtract_day">
+<area shape="rect" id="node1" title="Subtract 1 day from a date." alt="" coords="251,31,435,57"/>
+<area shape="rect" id="node2" href="$classpops_1_1Scheduler.html#a1ffdc427c854ad416ce43948304218bb" title="Scheduler creates a vector of simulation steps based on start, end date, unit and number of units." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#aba26773a9f7215ee32d15195fad896d3" title="Subtract N days from a date." alt="" coords="9,56,199,83"/>
+</map>

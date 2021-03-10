@@ -1,0 +1,6 @@
+<map id="pops::Date::get_last_day_of_week" name="pops::Date::get_last_day_of_week">
+<area shape="rect" id="node1" title="Assumes we call it on the first day of a week." alt="" coords="5,57,157,98"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#ab47de643becfadd2a64035abc4f851c1" title=" " alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#ad19222567da3e3fb693a4e953b432748" title="Increases the date by one week (7 days) except on the last week of the year, which is increased by 8 ..." alt="" coords="205,57,368,98"/>
+<area shape="rect" id="node4" href="$classpops_1_1Date.html#ae6025790ad4ed955201ea83af5dc521c" title=" " alt="" coords="416,93,599,120"/>
+</map>

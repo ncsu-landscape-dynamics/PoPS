@@ -1,0 +1,4 @@
+<map id="pops::Scheduler::schedule_action_yearly" name="pops::Scheduler::schedule_action_yearly">
+<area shape="rect" id="node1" title="Schedule an action at certain date each year, e.g." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#ad707213639ea54af2336bb80adf06259" title=" " alt="" coords="244,13,373,39"/>
+</map>

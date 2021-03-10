@@ -1,0 +1,4 @@
+<map id="pops::Scheduler::schedule_action_date" name="pops::Scheduler::schedule_action_date">
+<area shape="rect" id="node1" title="Schedule action at a specific date (not repeated action)." alt="" coords="220,5,411,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Treatments.html#a6c9c55ea8b245bb0c4dc40eefd48ddb1" title="Add treatment, based on parameters it is distinguished which treatment it will be." alt="" coords="5,5,172,47"/>
+</map>

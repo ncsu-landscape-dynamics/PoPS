@@ -1,0 +1,4 @@
+<map id="pops::PowerLawKernel::random" name="pops::PowerLawKernel::random">
+<area shape="rect" id="node1" title="Returns random value from power law distribution Used by RadialKernel to determine location of spread..." alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1PowerLawKernel.html#a9cbddb87f84f6970f786ab58148843e9" title="Power law inverse cumulative distribution (quantile) function Used by DeterministicKernel to determin..." alt="" coords="221,5,389,47"/>
+</map>

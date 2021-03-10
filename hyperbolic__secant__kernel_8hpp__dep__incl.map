@@ -1,0 +1,9 @@
+<map id="include/pops/hyperbolic_secant_kernel.hpp" name="include/pops/hyperbolic_secant_kernel.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="81,5,257,47"/>
+<area shape="rect" id="node2" href="$deterministic__kernel_8hpp.html" title=" " alt="" coords="5,184,200,225"/>
+<area shape="rect" id="node6" href="$radial__kernel_8hpp.html" title=" " alt="" coords="165,95,310,136"/>
+<area shape="rect" id="node3" href="$switch__kernel_8hpp.html" title=" " alt="" coords="162,273,313,315"/>
+<area shape="rect" id="node4" href="$kernel_8hpp.html" title="Main entry point to dispersal kernel functionality." alt="" coords="149,363,325,389"/>
+<area shape="rect" id="node5" href="$model_8hpp.html" title=" " alt="" coords="149,437,326,464"/>
+<area shape="rect" id="node7" href="$neighbor__kernel_8hpp.html" title=" " alt="" coords="275,184,440,225"/>
+</map>

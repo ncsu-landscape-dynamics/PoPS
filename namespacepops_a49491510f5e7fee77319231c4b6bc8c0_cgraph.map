@@ -1,0 +1,4 @@
+<map id="pops::direction_from_string" name="pops::direction_from_string">
+<area shape="rect" id="node1" title="Overload which allows to pass C&#45;style string which is nullptr (NULL)" alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$namespacepops.html#a8b1c22f6f681b0c582b6741c1e030108" title="Get a corresponding enum value for a string which direction." alt="" coords="209,5,365,47"/>
+</map>

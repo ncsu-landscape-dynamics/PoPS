@@ -1,0 +1,4 @@
+<map id="pops::QuarantineEscape::infection_escape_quarantine" name="pops::QuarantineEscape::infection_escape_quarantine">
+<area shape="rect" id="node1" title="Computes whether infection in certain step escaped from quarantine areas and if not,..." alt="" coords="219,5,436,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Model.html#a4cff9a7f6e323775db0d7a84f4ccf170" title="Run one step of the simulation." alt="" coords="5,13,171,39"/>
+</map>

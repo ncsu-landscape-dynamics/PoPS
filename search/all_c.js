@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['n_178',['N',['../utils_8hpp.html#a224b9163917ac32fc95a60d8c1eec3aaa8d9c307cb7f3c4a32822a51922d1ceaa',1,'utils.hpp']]],
+  ['natural_5fanthropogenic_5fkernel_2ehpp_179',['natural_anthropogenic_kernel.hpp',['../natural__anthropogenic__kernel_8hpp.html',1,'']]],
+  ['natural_5fdirection_180',['natural_direction',['../classpops_1_1Config.html#a70ac9f67b2d05cac9212f9547dab82fa',1,'pops::Config']]],
+  ['natural_5fkappa_181',['natural_kappa',['../classpops_1_1Config.html#ac254f84349727bc1d2944a51935ed361',1,'pops::Config']]],
+  ['natural_5fkernel_5f_182',['natural_kernel_',['../classpops_1_1NaturalAnthropogenicDispersalKernel.html#a451b9f978b76ad08cdce8fe469230b67',1,'pops::NaturalAnthropogenicDispersalKernel']]],
+  ['natural_5fkernel_5ftype_183',['natural_kernel_type',['../classpops_1_1Config.html#ad52f260bf3277af97723d72f03b1351f',1,'pops::Config']]],
+  ['natural_5fscale_184',['natural_scale',['../classpops_1_1Config.html#a0d5c1b07ad0ad10f156fda3d1c8725b1',1,'pops::Config']]],
+  ['naturalanthropogenicdispersalkernel_185',['NaturalAnthropogenicDispersalKernel',['../classpops_1_1NaturalAnthropogenicDispersalKernel.html',1,'pops::NaturalAnthropogenicDispersalKernel&lt; NaturalKernelType, AnthropogenicKernelType &gt;'],['../classpops_1_1NaturalAnthropogenicDispersalKernel.html#aa4c7903988643da00a35a4e0e1e94407',1,'pops::NaturalAnthropogenicDispersalKernel::NaturalAnthropogenicDispersalKernel()']]],
+  ['ne_186',['NE',['../utils_8hpp.html#a224b9163917ac32fc95a60d8c1eec3aaadc33066c3993e0d50896e533fd692ce0',1,'utils.hpp']]],
+  ['neighbor_5fkernel_2ehpp_187',['neighbor_kernel.hpp',['../neighbor__kernel_8hpp.html',1,'']]],
+  ['next_188',['next',['../structindices.html#ab4e3d568d759f3036bc9250bf9c7a928',1,'indices']]],
+  ['none_189',['None',['../namespacepops.html#aecc5cc190c0386835a770983623e1203a6adf97f83acf6453d4a6a4b1070f3754',1,'pops::None()'],['../utils_8hpp.html#a224b9163917ac32fc95a60d8c1eec3aaa6adf97f83acf6453d4a6a4b1070f3754',1,'None():&#160;utils.hpp']]],
+  ['normal_190',['normal',['../classpops_1_1DeterministicDispersalKernel.html#ae3804a853ae2fac75096120a3e8ff9ed',1,'pops::DeterministicDispersalKernel::normal()'],['../namespacepops.html#aecc5cc190c0386835a770983623e1203a960b44c579bc2f6818d2daaf9e4c16f0',1,'pops::Normal()']]],
+  ['normal_5fdistribution_191',['normal_distribution',['../classpops_1_1NormalKernel.html#aca3a534e8575ae5ba46c0089005407eb',1,'pops::NormalKernel::normal_distribution()'],['../classpops_1_1RadialDispersalKernel.html#ae7ccda9ee7714ca77120c4b422c46ee6',1,'pops::RadialDispersalKernel::normal_distribution()']]],
+  ['normal_5fkernel_2ehpp_192',['normal_kernel.hpp',['../normal__kernel_8hpp.html',1,'']]],
+  ['normalkernel_193',['NormalKernel',['../classpops_1_1NormalKernel.html',1,'pops::NormalKernel'],['../classpops_1_1NormalKernel.html#acafb4b470ec72b5d589f33bb2b9213bb',1,'pops::NormalKernel::NormalKernel()']]],
+  ['north_5fsouth_5fresolution_194',['north_south_resolution',['../classpops_1_1DeterministicDispersalKernel.html#a9fcd84ee197a3c98758610fc9655b85e',1,'pops::DeterministicDispersalKernel::north_south_resolution()'],['../classpops_1_1RadialDispersalKernel.html#a4479abed9f742d9f62d85704272a535d',1,'pops::RadialDispersalKernel::north_south_resolution()']]],
+  ['ns_5fres_195',['ns_res',['../classpops_1_1Config.html#a990ce282215ed8c4d90d6c83d6525c48',1,'pops::Config']]],
+  ['num_5flethal_196',['num_lethal',['../classpops_1_1Config.html#a5b32b0a7ab5ba76b3e43e60a9a94878f',1,'pops::Config']]],
+  ['num_5fmortality_5fyears_197',['num_mortality_years',['../classpops_1_1Config.html#a906f4b9456e7e0316e92d46df67a7975',1,'pops::Config']]],
+  ['number_5fof_5fcolumns_198',['number_of_columns',['../classpops_1_1DeterministicDispersalKernel.html#ae4974fede483f68a31891cb7d0e65890',1,'pops::DeterministicDispersalKernel']]],
+  ['number_5fof_5frows_199',['number_of_rows',['../classpops_1_1DeterministicDispersalKernel.html#ac28d840395bbf1f2ef9a9dd087826f18',1,'pops::DeterministicDispersalKernel']]],
+  ['numbertype_200',['NumberType',['../classpops_1_1Raster.html#af3dd2b029341590f221e6eb03dfdd53a',1,'pops::Raster']]],
+  ['nw_201',['NW',['../utils_8hpp.html#a224b9163917ac32fc95a60d8c1eec3aaa7f39ac71e81132daad44925b3bdfde5a',1,'utils.hpp']]]
+];

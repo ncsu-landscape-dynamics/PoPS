@@ -1,0 +1,4 @@
+<map id="pops::LogisticKernel::random" name="pops::LogisticKernel::random">
+<area shape="rect" id="node1" title="Returns random value from logistic distribution Used by RadialKernel to determine location of spread." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1LogisticKernel.html#a4d6d813602716809e77657aa721955cf" title="Logistic inverse cumulative distribution (quantile) function Used by DeterministicKernel to determine..." alt="" coords="205,5,357,47"/>
+</map>

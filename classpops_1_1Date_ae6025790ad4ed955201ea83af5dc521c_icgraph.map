@@ -1,0 +1,20 @@
+<map id="pops::Date::is_leap_year" name="pops::Date::is_leap_year">
+<area shape="rect" id="node1" title=" " alt="" coords="915,254,1097,281"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#a6a13e91a5524495d9f1ad0c02c4803c3" title="Adds 1 day to a date." alt="" coords="697,13,852,39"/>
+<area shape="rect" id="node5" href="$classpops_1_1Date.html#a2a1049e203f09777974a89c9ca853390" title="Compute the last day of a month." alt="" coords="699,64,851,105"/>
+<area shape="rect" id="node6" href="$classpops_1_1Date.html#a87b2a34281d3fb539b2a39901c60374b" title="Assumes we call it on the first day of a week." alt="" coords="451,188,603,229"/>
+<area shape="rect" id="node7" href="$classpops_1_1Date.html#a645ae497b514e3f9da163a86d2b52ad8" title="Increases the date by the num_days (specified by the user) except on the last timestep of the year,..." alt="" coords="693,181,856,223"/>
+<area shape="rect" id="node8" href="$classpops_1_1Date.html#ac5d43e23b80971b764e19af0c2dbf216" title=" " alt="" coords="693,247,856,288"/>
+<area shape="rect" id="node9" href="$classpops_1_1Date.html#ad19222567da3e3fb693a4e953b432748" title="Increases the date by one week (7 days) except on the last week of the year, which is increased by 8 ..." alt="" coords="693,312,856,353"/>
+<area shape="rect" id="node11" href="$classpops_1_1Date.html#a892e403c431192e6ee2f8967ebf25e83" title=" " alt="" coords="703,377,846,419"/>
+<area shape="rect" id="node15" href="$classpops_1_1Date.html#a6366813ed194425bb421c8dd9852b13c" title=" " alt="" coords="703,443,846,484"/>
+<area shape="rect" id="node16" href="$classpops_1_1Date.html#a206d3ff5861db6be16b2ede9fc418b35" title="Subtract 1 day from a date." alt="" coords="683,509,867,535"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#af554b5aa4060d1ba6089543450b0faa1" title="Adds N days to a date." alt="" coords="445,13,608,39"/>
+<area shape="rect" id="node4" href="$classpops_1_1Treatments.html#a6c9c55ea8b245bb0c4dc40eefd48ddb1" title="Add treatment, based on parameters it is distinguished which treatment it will be." alt="" coords="204,5,371,47"/>
+<area shape="rect" id="node10" href="$classpops_1_1Date.html#a9d7e054434c1e03758e67ae44e68e787" title="Gets number of weeks between start date and this date." alt="" coords="419,319,635,346"/>
+<area shape="rect" id="node12" href="$classpops_1_1Scheduler.html#aa2558fee6d323c52523a466b882afa97" title="Schedule action at the end of each month." alt="" coords="431,377,622,419"/>
+<area shape="rect" id="node13" href="$namespacepops.html#aca8fc9deff1ba7745eae6222c6067f1d" title="Get output (export) schedule based on frequency string (&quot;year&quot;, &quot;month&quot;, &quot;week&quot;, &quot;day&quot;,..." alt="" coords="209,377,366,419"/>
+<area shape="rect" id="node14" href="$classpops_1_1Config.html#add958c65461cd4cc7cf174f2b7706e31" title=" " alt="" coords="5,377,156,419"/>
+<area shape="rect" id="node17" href="$classpops_1_1Scheduler.html#a1ffdc427c854ad416ce43948304218bb" title="Scheduler creates a vector of simulation steps based on start, end date, unit and number of units." alt="" coords="428,483,625,510"/>
+<area shape="rect" id="node18" href="$classpops_1_1Date.html#aba26773a9f7215ee32d15195fad896d3" title="Subtract N days from a date." alt="" coords="431,534,622,561"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pops::Date::increased_by_week" name="pops::Date::increased_by_week">
+<area shape="rect" id="node1" title="Increases the date by one week (7 days) except on the last week of the year, which is increased by 8 ..." alt="" coords="269,35,432,76"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#a87b2a34281d3fb539b2a39901c60374b" title="Assumes we call it on the first day of a week." alt="" coords="37,5,189,47"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#a9d7e054434c1e03758e67ae44e68e787" title="Gets number of weeks between start date and this date." alt="" coords="5,71,221,98"/>
+</map>

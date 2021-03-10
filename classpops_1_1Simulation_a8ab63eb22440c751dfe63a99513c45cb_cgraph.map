@@ -1,0 +1,6 @@
+<map id="pops::Simulation::disperse_and_infect" name="pops::Simulation::disperse_and_infect">
+<area shape="rect" id="node1" title="Disperse, expose, and infect based on dispersers." alt="" coords="5,27,200,69"/>
+<area shape="rect" id="node2" href="$classpops_1_1Simulation.html#a6b4321a236a62df901537f3b411aa835" title="Creates dispersal locations for the dispersing individuals." alt="" coords="248,5,443,32"/>
+<area shape="rect" id="node3" href="$classpops_1_1Simulation.html#ac2edb85ea4001e168501bb5c5df8fcda" title="Infect exposed hosts (E to I transition in the SEI model)" alt="" coords="257,57,433,98"/>
+<area shape="rect" id="node4" href="$namespacepops.html#a115caa911898fbbdae3ae299d834f16d" title="Rotate elements in a container to the left by one." alt="" coords="491,64,673,91"/>
+</map>

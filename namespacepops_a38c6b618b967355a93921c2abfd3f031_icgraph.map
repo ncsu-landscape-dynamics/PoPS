@@ -1,0 +1,4 @@
+<map id="pops::simulation_step_to_action_step" name="pops::simulation_step_to_action_step">
+<area shape="rect" id="node1" title="Converts simulation step to step of actions." alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Model.html#a4cff9a7f6e323775db0d7a84f4ccf170" title="Run one step of the simulation." alt="" coords="5,13,171,39"/>
+</map>

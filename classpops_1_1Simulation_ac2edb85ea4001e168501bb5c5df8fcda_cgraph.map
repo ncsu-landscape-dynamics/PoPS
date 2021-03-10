@@ -1,0 +1,4 @@
+<map id="pops::Simulation::infect_exposed" name="pops::Simulation::infect_exposed">
+<area shape="rect" id="node1" title="Infect exposed hosts (E to I transition in the SEI model)" alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$namespacepops.html#a115caa911898fbbdae3ae299d834f16d" title="Rotate elements in a container to the left by one." alt="" coords="229,13,412,39"/>
+</map>

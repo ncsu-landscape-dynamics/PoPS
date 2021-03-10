@@ -1,0 +1,4 @@
+<map id="pops::SwitchDispersalKernel::supports_kernel" name="pops::SwitchDispersalKernel::supports_kernel">
+<area shape="rect" id="node1" title="Returns true if the kernel class support a given kernel type." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1RadialDispersalKernel.html#af70f7003fde23cf233d983cd81baf655" title="Returns true if the kernel class support a given kernel type." alt="" coords="260,5,464,47"/>
+</map>

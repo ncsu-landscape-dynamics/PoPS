@@ -1,0 +1,6 @@
+<map id="pops::Scheduler::Scheduler" name="pops::Scheduler::Scheduler">
+<area shape="rect" id="node1" title="Scheduler creates a vector of simulation steps based on start, end date, unit and number of units." alt="" coords="5,31,203,57"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#a10a40164a2de78c2e5d16dc96a43379a" title=" " alt="" coords="281,5,405,32"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#a206d3ff5861db6be16b2ede9fc418b35" title="Subtract 1 day from a date." alt="" coords="251,56,435,83"/>
+<area shape="rect" id="node4" href="$classpops_1_1Date.html#ae6025790ad4ed955201ea83af5dc521c" title=" " alt="" coords="483,56,665,83"/>
+</map>

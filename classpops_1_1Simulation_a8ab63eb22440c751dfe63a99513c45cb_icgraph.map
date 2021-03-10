@@ -1,0 +1,4 @@
+<map id="pops::Simulation::disperse_and_infect" name="pops::Simulation::disperse_and_infect">
+<area shape="rect" id="node1" title="Disperse, expose, and infect based on dispersers." alt="" coords="219,5,413,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Model.html#a4cff9a7f6e323775db0d7a84f4ccf170" title="Run one step of the simulation." alt="" coords="5,13,171,39"/>
+</map>

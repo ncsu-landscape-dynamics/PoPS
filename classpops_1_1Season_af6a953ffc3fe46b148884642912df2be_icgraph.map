@@ -1,0 +1,5 @@
+<map id="pops::Season::month_in_season" name="pops::Season::month_in_season">
+<area shape="rect" id="node1" title="Decides if a month is in season or not." alt="" coords="443,5,601,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1Scheduler.html#ade7f18769ed42a020f1f83b13c174f22" title="Schedule spread." alt="" coords="204,5,395,47"/>
+<area shape="rect" id="node3" href="$classpops_1_1Config.html#add958c65461cd4cc7cf174f2b7706e31" title=" " alt="" coords="5,5,156,47"/>
+</map>

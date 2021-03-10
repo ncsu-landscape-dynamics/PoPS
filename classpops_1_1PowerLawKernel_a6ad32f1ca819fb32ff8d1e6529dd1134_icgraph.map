@@ -1,0 +1,4 @@
+<map id="pops::PowerLawKernel::random" name="pops::PowerLawKernel::random">
+<area shape="rect" id="node1" title="Returns random value from power law distribution Used by RadialKernel to determine location of spread..." alt="" coords="257,5,425,47"/>
+<area shape="rect" id="node2" href="$classpops_1_1RadialDispersalKernel.html#adfa3a45c79b212d890f04158f63b4768" title="Generates a new position for the spread." alt="" coords="5,5,209,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pops::GammaKernel::icdf" name="pops::GammaKernel::icdf">
+<area shape="rect" id="node1" title="Gamma inverse cumulative distribution (quantile) function Used by DeterministicKernel to determine ma..." alt="" coords="5,64,192,91"/>
+<area shape="rect" id="node2" href="$classpops_1_1GammaKernel.html#a39c0c31cb1b74ef693823b3d195d62fa" title="Gamma cumulative distribution function used by gamma icdf." alt="" coords="240,5,423,32"/>
+<area shape="rect" id="node3" href="$classpops_1_1LogNormalKernel.html#a630a974b04f1da31b706bd413234c4ee" title="Log normal inverse cumulative distribution (quantile) function Used by DeterministicKernel to determi..." alt="" coords="245,57,418,98"/>
+<area shape="rect" id="node4" href="$classpops_1_1GammaKernel.html#a630541762f4aee11120a95780667afc8" title="Gamma probability density function Used by DeterministicKernel to determine location of spread." alt="" coords="240,123,423,149"/>
+</map>

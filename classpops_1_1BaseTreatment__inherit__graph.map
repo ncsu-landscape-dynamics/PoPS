@@ -1,0 +1,6 @@
+<map id="pops::BaseTreatment&lt; IntegerRaster, FloatRaster &gt;" name="pops::BaseTreatment&lt; IntegerRaster, FloatRaster &gt;">
+<area shape="rect" id="node1" title="Base treatment class." alt="" coords="276,39,499,80"/>
+<area shape="rect" id="node3" href="$classpops_1_1PesticideTreatment.html" title="Pesticide treatment class." alt="" coords="547,5,769,47"/>
+<area shape="rect" id="node4" href="$classpops_1_1SimpleTreatment.html" title="Simple treatment class." alt="" coords="547,71,769,112"/>
+<area shape="rect" id="node2" href="$classpops_1_1AbstractTreatment.html" title="Abstract interface for treatment classes." alt="" coords="5,39,228,80"/>
+</map>

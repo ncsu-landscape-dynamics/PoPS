@@ -1,0 +1,7 @@
+<map id="pops::Treatments::add_treatment" name="pops::Treatments::add_treatment">
+<area shape="rect" id="node1" title="Add treatment, based on parameters it is distinguished which treatment it will be." alt="" coords="5,27,172,69"/>
+<area shape="rect" id="node2" href="$classpops_1_1Date.html#af554b5aa4060d1ba6089543450b0faa1" title="Adds N days to a date." alt="" coords="234,5,397,32"/>
+<area shape="rect" id="node5" href="$classpops_1_1Scheduler.html#a88164b16299a3a32c2d18a36fbb46bbe" title="Schedule action at a specific date (not repeated action)." alt="" coords="220,57,411,98"/>
+<area shape="rect" id="node3" href="$classpops_1_1Date.html#a6a13e91a5524495d9f1ad0c02c4803c3" title="Adds 1 day to a date." alt="" coords="459,5,613,32"/>
+<area shape="rect" id="node4" href="$classpops_1_1Date.html#ae6025790ad4ed955201ea83af5dc521c" title=" " alt="" coords="661,5,844,32"/>
+</map>
